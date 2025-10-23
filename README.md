@@ -26,6 +26,8 @@
 
 百度网盘：https://pan.baidu.com/s/1hp6YO0RXzVHWLTN_Nlm_tw?pwd=0000
 
+OneDrive：https://1drv.ms/f/c/e7e1e12530973d68/EvIgfE5cHpZJgYIsUf_wfCUBv2X4y9yyyDSMXGPrOSh57w?e=5uJcAc
+
 ## 欢迎学术上的任何交流，特别是关于医学图像处理、脑血管、分割、网络分析、血流模拟的内容，通过邮箱1249591860@qq.com或者GitHub Issues联系我即可
 
 ## 关于本工作
@@ -114,6 +116,8 @@ Aliyun Drive: https://www.alipan.com/s/PNWLD9AJZvw
 Quark Drive: https://pan.quark.cn/s/c100a99df184
 
 Baidu Netdisk: https://pan.baidu.com/s/1hp6YO0RXzVHWLTN_Nlm_tw?pwd=0000
+
+OneDrive：https://1drv.ms/f/c/e7e1e12530973d68/EvIgfE5cHpZJgYIsUf_wfCUBv2X4y9yyyDSMXGPrOSh57w?e=5uJcAc
 
 ## Feel free to contact me for any academic discussion, especially regarding medical image processing, cerebral vasculature, segmentation, network analysis, or blood flow simulation, via email at 1249591860@qq.com or GitHub Issues.
 
