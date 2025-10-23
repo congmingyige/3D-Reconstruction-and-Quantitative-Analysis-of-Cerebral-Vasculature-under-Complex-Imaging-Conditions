@@ -14,3 +14,5 @@
 夸克云盘：https://www.alipan.com/s/PNWLD9AJZvw
 
 百度网盘：https://pan.baidu.com/s/1hp6YO0RXzVHWLTN_Nlm_tw?pwd=0000
+
+## 也欢迎学术上的任何交流，特别是关于医学图像处理、脑血管、分割、网络分析、血流模拟的内容
