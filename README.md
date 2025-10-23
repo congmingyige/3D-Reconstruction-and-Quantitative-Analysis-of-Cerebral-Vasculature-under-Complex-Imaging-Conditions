@@ -1,4 +1,5 @@
-[中文版本]&nbsp;&nbsp;(#中文版本)
+[中文版本](#中文版本)
+&nbsp;&nbsp;
 [English Version](#English-Version)
 
 # 中文版本
