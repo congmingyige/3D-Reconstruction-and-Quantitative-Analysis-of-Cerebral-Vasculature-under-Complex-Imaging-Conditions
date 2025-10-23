@@ -1,0 +1,15 @@
+name: Generate TOC
+on: [push, pull_request]
+
+jobs:
+  toc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate TOC
+        uses: technote-space/toc-generator@v4
+        with:
+          TARGET_PATHS: 'README.md'  # 目标文件
+          # 可选配置：
+          # TOC_TITLE: '## Table of Contents'  # TOC 标题
+          # MAX_HEADER_LEVEL: 3  # 最大标题级别（如只包含 h1-h3）
