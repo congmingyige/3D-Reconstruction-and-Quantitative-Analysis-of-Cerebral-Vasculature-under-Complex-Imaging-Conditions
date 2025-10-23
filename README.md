@@ -28,7 +28,9 @@
 
 标记：FITC / Dylight
 
-单个数据图像大小：11400 x 8000 x 13200
+单个数据图像大小：11400 x 8000 x 13200。
+
+**它来了分割精度要求的巨大挑战，人工标记血管和修改分割后错误位置无异于痴人说梦。无论是有监督方法还是无监督方法，哪怕提升一点，对于之后的定量分析、网络分析和血流模拟，都是巨大的提升。**
 
 灰度值：8bit，0 - 255
 
@@ -44,15 +46,20 @@
 
 ## 展示
 <img width="1750" height="775" alt="image" src="https://github.com/user-attachments/assets/6b43e0cf-5d8d-4bff-956d-5f4befb096ae" />
+&nbsp;&nbsp;
 
 <img width="909" height="369" alt="image" src="https://github.com/user-attachments/assets/10098c93-8993-4e43-b1be-86760b96dd44" />
+&nbsp;&nbsp;
 
 <img width="539" height="67" alt="image" src="https://github.com/user-attachments/assets/dada5612-7e7c-4fa2-af7f-080e06a18dd9" />
+&nbsp;&nbsp;
 
 <img width="4400" height="2971" alt="该研究工作流程图" src="https://github.com/user-attachments/assets/e98ff8b6-cd0e-4237-bc3c-d935c94436fb" />
+&nbsp;&nbsp;
 
 分割模块带来了新的棋盘格伪影
 <img width="1214" height="1461" alt="image" src="https://github.com/user-attachments/assets/be1821c8-8745-4658-b6d3-85e8126c18a0" />
+&nbsp;&nbsp;
 
 <img width="1422" height="812" alt="image" src="https://github.com/user-attachments/assets/64990791-682c-4639-b667-646ce20f2252" />
 
@@ -66,6 +73,5 @@
 
 业界做血流模拟的工作
 <img width="1958" height="1406" alt="image" src="https://github.com/user-attachments/assets/c8608447-95a2-4862-b4b6-6285d1800c91" />
-
 
 
