@@ -3,7 +3,7 @@
 
 本人正积极寻求合适的工作机会，若您有相关岗位推荐或招聘需求，欢迎通过邮箱1249591860@qq.com与我联系，期待与您沟通！
 
-# 下载链接
+# PPT下载链接
 阿里云盘：https://www.alipan.com/s/PNWLD9AJZvw
 
 夸克云盘：https://www.alipan.com/s/PNWLD9AJZvw
