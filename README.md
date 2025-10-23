@@ -47,7 +47,7 @@
 无监督方法： vesselFM（**也是很强烈推荐他组的这个工作**）
 
 ## 展示
-<br> <br> <img width="1750" height="775" alt="image" src="https://github.com/user-attachments/assets/6b43e0cf-5d8d-4bff-956d-5f4befb096ae" />
+<img width="1791" height="797" alt="image" src="https://github.com/user-attachments/assets/e5fa9efc-31ea-46cf-b761-1f2f0adeec4a" />
 
 <br> <br> <img width="909" height="369" alt="image" src="https://github.com/user-attachments/assets/10098c93-8993-4e43-b1be-86760b96dd44" />
 
