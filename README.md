@@ -11,7 +11,7 @@
 # PPT下载链接
 阿里云盘：https://www.alipan.com/s/PNWLD9AJZvw
 
-夸克云盘：https://www.alipan.com/s/PNWLD9AJZvw
+夸克云盘：https://pan.quark.cn/s/c100a99df184
 
 百度网盘：https://pan.baidu.com/s/1hp6YO0RXzVHWLTN_Nlm_tw?pwd=0000
 
