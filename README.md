@@ -18,7 +18,9 @@
 ## 欢迎学术上的任何交流，特别是关于医学图像处理、脑血管、分割、网络分析、血流模拟的内容，通过邮箱1249591860@qq.com或者GitHub Issues联系我即可
 
 ## 数据信息
-**庞大数据集**：全脑完整精细血管 X 24
+庄茁院士（王鹏老师）和骆清铭院士、龚辉教授团队合作课题
+
+**庞大数据集**：全脑完整精细血管 X 24；健康 / 损伤数据
 
 离体数据（**离体的缺陷掩盖不了它的全脑完整高分辨率金子般的价值**）
 
@@ -45,28 +47,27 @@
 无监督方法： vesselFM（**也是很强烈推荐他组的这个工作**）
 
 ## 展示
-<br> <img width="1750" height="775" alt="image" src="https://github.com/user-attachments/assets/6b43e0cf-5d8d-4bff-956d-5f4befb096ae" />
+<br> <br> <img width="1750" height="775" alt="image" src="https://github.com/user-attachments/assets/6b43e0cf-5d8d-4bff-956d-5f4befb096ae" />
 
-<br> <img width="909" height="369" alt="image" src="https://github.com/user-attachments/assets/10098c93-8993-4e43-b1be-86760b96dd44" />
+<br> <br> <img width="909" height="369" alt="image" src="https://github.com/user-attachments/assets/10098c93-8993-4e43-b1be-86760b96dd44" />
 
-<br> <img width="539" height="67" alt="image" src="https://github.com/user-attachments/assets/dada5612-7e7c-4fa2-af7f-080e06a18dd9" />
+<br> <br> <img width="539" height="67" alt="image" src="https://github.com/user-attachments/assets/dada5612-7e7c-4fa2-af7f-080e06a18dd9" />
 
-<br> <img width="4400" height="2971" alt="该研究工作流程图" src="https://github.com/user-attachments/assets/e98ff8b6-cd0e-4237-bc3c-d935c94436fb" />
+<br> <br> <img width="4400" height="2971" alt="该研究工作流程图" src="https://github.com/user-attachments/assets/e98ff8b6-cd0e-4237-bc3c-d935c94436fb" />
 
-分割模块带来了新的棋盘格伪影
-<br> <img width="1214" height="1461" alt="image" src="https://github.com/user-attachments/assets/be1821c8-8745-4658-b6d3-85e8126c18a0" />
+为了解决分割断裂的新增的模块，它带来了新的棋盘格伪影的问题
+<br> <br> <img width="1214" height="1461" alt="image" src="https://github.com/user-attachments/assets/be1821c8-8745-4658-b6d3-85e8126c18a0" />
 
-<br> <img width="1422" height="812" alt="image" src="https://github.com/user-attachments/assets/64990791-682c-4639-b667-646ce20f2252" />
+<br> <br> <img width="1422" height="812" alt="image" src="https://github.com/user-attachments/assets/64990791-682c-4639-b667-646ce20f2252" />
 
-<br> <img width="2754" height="983" alt="image" src="https://github.com/user-attachments/assets/a58a9fed-1d82-44ee-83b1-309c1b52234a" />
+<br> <br> <img width="2754" height="983" alt="image" src="https://github.com/user-attachments/assets/a58a9fed-1d82-44ee-83b1-309c1b52234a" />
 
-<br> <img width="2712" height="970" alt="image" src="https://github.com/user-attachments/assets/6b95bca2-531d-440d-9593-3984f97d80b1" />
+<br> <br> <img width="2712" height="970" alt="image" src="https://github.com/user-attachments/assets/6b95bca2-531d-440d-9593-3984f97d80b1" />
 
-<br> <img width="2087" height="1368" alt="image" src="https://github.com/user-attachments/assets/d1f54d7c-f6ea-40bd-9783-e79460960f44" />
+<br> <br> <img width="2087" height="1368" alt="image" src="https://github.com/user-attachments/assets/d1f54d7c-f6ea-40bd-9783-e79460960f44" />
 
-<br> <img width="2738" height="1195" alt="image" src="https://github.com/user-attachments/assets/cc3b93a9-3ae0-45e6-aeab-899520f01288" />
+<br> <br> <img width="2738" height="1195" alt="image" src="https://github.com/user-attachments/assets/cc3b93a9-3ae0-45e6-aeab-899520f01288" />
 
 业界做血流模拟的工作
-<br> <img width="1958" height="1406" alt="image" src="https://github.com/user-attachments/assets/c8608447-95a2-4862-b4b6-6285d1800c91" />
-
+<br> <br> <img width="1958" height="1406" alt="image" src="https://github.com/user-attachments/assets/c8608447-95a2-4862-b4b6-6285d1800c91" />
 
